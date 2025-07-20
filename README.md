@@ -6,7 +6,7 @@ This is a machine learning web app that predicts whether an employee earns **>50
 
 ## 🚀 Live Demo
 
-[![Open in Streamlit](https://employeesalaryprediction-2ffejxaek22p5eqrryzprf.streamlit.app/)
+https://employeesalaryprediction-2ffejxaek22p5eqrryzprf.streamlit.app/
 
 ---
 
